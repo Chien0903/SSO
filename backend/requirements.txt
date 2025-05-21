@@ -1,0 +1,10 @@
+# Django and REST framework
+django>=4.2.0,<5.0.0
+djangorestframework>=3.14.0
+django-cors-headers>=4.0.0
+
+# Microsoft Authentication
+msal>=1.20.0
+
+# HTTP Requests
+requests>=2.28.0
